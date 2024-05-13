@@ -1,0 +1,6 @@
+## Interface: 100206
+## Title: Range Color
+## Notes: Colors action bars red when the target is out of range.
+## Version: 1.0
+## Author: gitchevv
+RangeColor.lua
